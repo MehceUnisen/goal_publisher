@@ -16,6 +16,7 @@
   <exec_depend>geometry_msgs</exec_depend>
   <exec_depend>python-geographiclib</exec_depend>
   <exec_depend>tf_transformations</exec_depend>
+  <exec_depend>autoware_adapi_v1_msgs</exec_depend>
 
   <export>
     <build_type>ament_python</build_type>
